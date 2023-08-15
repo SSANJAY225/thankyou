@@ -1,0 +1,1078 @@
+.thinkpairshare-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.thinkpairshare-thinkpairshare {
+  width: 100%;
+  height: 758px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 24px;
+  background-color: var(--dl-color-default-color07);
+}
+.thinkpairshare-ellipse421 {
+  top: 854px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse430 {
+  top: 854px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse422 {
+  top: 758px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse431 {
+  top: 758px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse270 {
+  top: 662px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse279 {
+  top: 662px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse288 {
+  top: 662px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse297 {
+  top: 662px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse306 {
+  top: 662px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse315 {
+  top: 662px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse324 {
+  top: 662px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse333 {
+  top: 662px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse342 {
+  top: 662px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse351 {
+  top: 662px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse360 {
+  top: 662px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse369 {
+  top: 662px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse378 {
+  top: 662px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse387 {
+  top: 662px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse396 {
+  top: 662px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse423 {
+  top: 662px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse432 {
+  top: 662px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse271 {
+  top: 566px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse280 {
+  top: 566px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse289 {
+  top: 566px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse298 {
+  top: 566px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse307 {
+  top: 566px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse316 {
+  top: 566px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse325 {
+  top: 566px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse334 {
+  top: 566px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse343 {
+  top: 566px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse352 {
+  top: 566px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse361 {
+  top: 566px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse370 {
+  top: 566px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse379 {
+  top: 566px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse388 {
+  top: 566px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse397 {
+  top: 566px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse424 {
+  top: 566px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse433 {
+  top: 566px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse272 {
+  top: 470px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse281 {
+  top: 470px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse290 {
+  top: 470px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse299 {
+  top: 470px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse308 {
+  top: 470px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse317 {
+  top: 470px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse326 {
+  top: 470px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse335 {
+  top: 470px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse344 {
+  top: 470px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse353 {
+  top: 470px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse362 {
+  top: 470px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse371 {
+  top: 470px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse380 {
+  top: 470px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse389 {
+  top: 470px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse398 {
+  top: 470px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse425 {
+  top: 470px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse434 {
+  top: 470px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse273 {
+  top: 374px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse282 {
+  top: 374px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse291 {
+  top: 374px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse300 {
+  top: 374px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse309 {
+  top: 374px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse318 {
+  top: 374px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse327 {
+  top: 374px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse336 {
+  top: 374px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse345 {
+  top: 374px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse354 {
+  top: 374px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse363 {
+  top: 374px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse372 {
+  top: 374px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse381 {
+  top: 374px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse390 {
+  top: 374px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse399 {
+  top: 374px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse426 {
+  top: 374px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse435 {
+  top: 374px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse274 {
+  top: 278px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse283 {
+  top: 278px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse292 {
+  top: 278px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse301 {
+  top: 278px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse310 {
+  top: 278px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse319 {
+  top: 278px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse328 {
+  top: 278px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse337 {
+  top: 278px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse346 {
+  top: 278px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse355 {
+  top: 278px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse364 {
+  top: 278px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse373 {
+  top: 278px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse382 {
+  top: 278px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse391 {
+  top: 278px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse400 {
+  top: 278px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse427 {
+  top: 278px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse436 {
+  top: 278px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse275 {
+  top: 182px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse284 {
+  top: 182px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse293 {
+  top: 182px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse302 {
+  top: 182px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse311 {
+  top: 182px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse320 {
+  top: 182px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse329 {
+  top: 182px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse338 {
+  top: 182px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse347 {
+  top: 182px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse356 {
+  top: 182px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse365 {
+  top: 182px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse374 {
+  top: 182px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse383 {
+  top: 182px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse392 {
+  top: 182px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse401 {
+  top: 182px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse428 {
+  top: 182px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse437 {
+  top: 182px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse276 {
+  top: 86px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse285 {
+  top: 86px;
+  left: 182px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse294 {
+  top: 86px;
+  left: 278px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse303 {
+  top: 86px;
+  left: 374px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse312 {
+  top: 86px;
+  left: 470px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse321 {
+  top: 86px;
+  left: 566px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse330 {
+  top: 86px;
+  left: 662px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse339 {
+  top: 86px;
+  left: 758px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse348 {
+  top: 86px;
+  left: 854px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse357 {
+  top: 86px;
+  left: 950px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse366 {
+  top: 86px;
+  left: 1046px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse375 {
+  top: 86px;
+  left: 1142px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse384 {
+  top: 86px;
+  left: 1238px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse393 {
+  top: 86px;
+  left: 1334px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse402 {
+  top: 86px;
+  left: 1430px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse429 {
+  top: 86px;
+  left: 1718px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-ellipse438 {
+  top: 86px;
+  left: 1814px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.thinkpairshare-text {
+  top: 227px;
+  left: 133px;
+  color: var(--dl-color-default-textmidnightblack);
+  width: 773px;
+  height: auto;
+  position: absolute;
+  font-size: 143.99998474121094px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 160px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.thinkpairshare-title {
+  top: 106px;
+  left: 122px;
+  width: 368px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: 8px 32px 8px 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-color13);
+}
+.thinkpairshare-text5 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 56px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 72px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.thinkpairshare-frame31 {
+  gap: 10px;
+  top: 202px;
+  left: 1188px;
+  width: 292px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+}
+.thinkpairshare-frame6 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.thinkpairshare-frame4 {
+  gap: 12px;
+  display: flex;
+  padding: 16px 16px 128px;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-color12);
+}
+.thinkpairshare-rectangle538 {
+  top: 232px;
+  left: 16px;
+  width: 240px;
+  height: 102px;
+  opacity: 0.90;
+  position: absolute;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle535 {
+  width: 240px;
+  height: 96px;
+  z-index: 1;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle536 {
+  width: 240px;
+  height: 96px;
+  z-index: 2;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle537 {
+  top: 283px;
+  left: 50px;
+  width: 240px;
+  height: 102px;
+  z-index: 3;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-frame7 {
+  gap: 25px;
+  top: 238px;
+  left: 880px;
+  width: 256px;
+  height: 485px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.thinkpairshare-frame5 {
+  gap: 12px;
+  display: flex;
+  padding: 16px;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-color05);
+}
+.thinkpairshare-rectangle5351 {
+  width: 240px;
+  height: 104px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle5361 {
+  width: 240px;
+  height: 104px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle5381 {
+  width: 240px;
+  height: 104px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-rectangle5371 {
+  width: 240px;
+  height: 104px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 5px;
+}
+.thinkpairshare-vector {
+  top: 582px;
+  left: 1356.04248046875px;
+  width: 33px;
+  height: 39px;
+  position: absolute;
+}
+.thinkpairshare-vector1 {
+  top: 662.4443359375px;
+  left: 1314.56396484375px;
+  width: 117px;
+  height: 37px;
+  position: absolute;
+}
+@media(max-width: 1600px) {
+  .thinkpairshare-thinkpairshare {
+    height: 935px;
+  }
+  .thinkpairshare-title {
+    padding-top: 16px 32px 13px 24px;
+    padding-left: 16px 32px 13px 24px;
+    padding-right: 16px 32px 13px 24px;
+    padding-bottom: 16px 32px 13px 24px;
+  }
+  .thinkpairshare-text5 {
+    color: rgb(255, 255, 255);
+    font-size: 56px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 72px;
+    text-decoration: none;
+  }
+}
